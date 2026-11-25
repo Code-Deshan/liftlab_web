@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 1,
+  "source": "friend historical export",
+  "exerciseProgress": [
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-09-21",
+      "weightKg": 4.5359,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_incline_dumbbell_curl",
+      "date": "2026-09-21",
+      "weightKg": 7.5,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_cable_curl",
+      "date": "2026-09-22",
+      "weightKg": 31.7515,
+      "reps": 14
+    },
+    {
+      "exerciseId": "ex_dumbbell_lateral_raise",
+      "date": "2026-09-22",
+      "weightKg": 5.0,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "date": "2026-09-22",
+      "weightKg": 52.1631,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "date": "2026-09-22",
+      "weightKg": 18.1437,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-10-13",
+      "weightKg": 4.5359,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_dumbbell_lateral_raise",
+      "date": "2026-10-13",
+      "weightKg": 7.5,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_face_pull",
+      "date": "2026-10-13",
+      "weightKg": 31.7515,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_hammer_curl",
+      "date": "2026-10-13",
+      "weightKg": 10.0,
+      "reps": 7
+    },
+    {
+      "exerciseId": "ex_incline_dumbbell_curl",
+      "date": "2026-10-13",
+      "weightKg": 7.5,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "date": "2026-10-13",
+      "weightKg": 24.9476,
+      "reps": 18
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "date": "2026-10-13",
+      "weightKg": 18.1437,
+      "reps": 8
+    },
+    {
+      "exerciseId": "ex_cable_curl",
+      "date": "2026-10-14",
+      "weightKg": 31.7515,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_dumbbell_lateral_raise",
+      "date": "2026-10-14",
+      "weightKg": 7.5,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_face_pull",
+      "date": "2026-10-14",
+      "weightKg": 31.7515,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_machine_lateral_raise",
+      "date": "2026-10-14",
+      "weightKg": 4.5359,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_preacher_curl",
+      "date": "2026-10-14",
+      "weightKg": 20.4117,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "date": "2026-10-14",
+      "weightKg": 18.1437,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_bulgarian_split_squat",
+      "date": "2026-10-15",
+      "weightKg": 10.0,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_leg_extension",
+      "date": "2026-10-15",
+      "weightKg": 40.8233,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_reverse_curl",
+      "date": "2026-10-15",
+      "weightKg": 27.2155,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "date": "2026-10-15",
+      "weightKg": 70.3068,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_seated_calf_raise",
+      "date": "2026-10-15",
+      "weightKg": 22.6796,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_seated_leg_curl",
+      "date": "2026-10-15",
+      "weightKg": 70.0,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_standing_calf_raise",
+      "date": "2026-10-15",
+      "weightKg": 136.0777,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-10-16",
+      "weightKg": 4.5359,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_ez_bar_curl",
+      "date": "2026-10-16",
+      "weightKg": 31.7515,
+      "reps": 6
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "date": "2026-10-16",
+      "weightKg": 22.6796,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "date": "2026-10-16",
+      "weightKg": 18.1437,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-10-19",
+      "weightKg": 9.0718,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_dumbbell_lateral_raise",
+      "date": "2026-10-19",
+      "weightKg": 7.5,
+      "reps": 13
+    },
+    {
+      "exerciseId": "ex_face_pull",
+      "date": "2026-10-19",
+      "weightKg": 31.7515,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_hammer_curl",
+      "date": "2026-10-19",
+      "weightKg": 10.0,
+      "reps": 8
+    },
+    {
+      "exerciseId": "ex_incline_dumbbell_curl",
+      "date": "2026-10-19",
+      "weightKg": 7.5,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "date": "2026-10-19",
+      "weightKg": 24.9476,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "date": "2026-10-19",
+      "weightKg": 13.6078,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_hack_squat",
+      "date": "2026-10-20",
+      "weightKg": 131.5418,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_leg_press",
+      "date": "2026-10-20",
+      "weightKg": 122.4699,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_reverse_wrist_curl",
+      "date": "2026-10-20",
+      "weightKg": 18.1437,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_seated_calf_raise",
+      "date": "2026-10-20",
+      "weightKg": 20.4117,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_seated_leg_curl",
+      "date": "2026-10-20",
+      "weightKg": 34.0194,
+      "reps": 11
+    },
+    {
+      "exerciseId": "ex_standing_calf_raise",
+      "date": "2026-10-20",
+      "weightKg": 122.4699,
+      "reps": 15
+    },
+    {
+      "exerciseId": "ex_cable_curl",
+      "date": "2026-10-21",
+      "weightKg": 31.7515,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_dumbbell_lateral_raise",
+      "date": "2026-10-21",
+      "weightKg": 7.5,
+      "reps": 13
+    },
+    {
+      "exerciseId": "ex_face_pull",
+      "date": "2026-10-21",
+      "weightKg": 31.7515,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_preacher_curl",
+      "date": "2026-10-21",
+      "weightKg": 22.6796,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_ez_bar_curl",
+      "date": "2026-10-23",
+      "weightKg": 22.6796,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_barbell_bench_press",
+      "date": "2026-11-02",
+      "weightKg": 49.8952,
+      "reps": 6
+    },
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-11-02",
+      "weightKg": 4.5359,
+      "reps": 20
+    },
+    {
+      "exerciseId": "ex_incline_dumbbell_curl",
+      "date": "2026-11-03",
+      "weightKg": 7.5,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_hack_squat",
+      "date": "2026-11-04",
+      "weightKg": 154.2214,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_leg_press",
+      "date": "2026-11-04",
+      "weightKg": 163.2933,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "date": "2026-11-04",
+      "weightKg": 74.8427,
+      "reps": 8
+    },
+    {
+      "exerciseId": "ex_seated_leg_curl",
+      "date": "2026-11-04",
+      "weightKg": 40.8233,
+      "reps": 11
+    },
+    {
+      "exerciseId": "ex_barbell_bench_press",
+      "date": "2026-11-09",
+      "weightKg": 52.1631,
+      "reps": 6
+    },
+    {
+      "exerciseId": "ex_incline_dumbbell_curl",
+      "date": "2026-11-17",
+      "weightKg": 10.0,
+      "reps": 7
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "date": "2026-11-17",
+      "weightKg": 24.9476,
+      "reps": 16
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "date": "2026-11-19",
+      "weightKg": 24.9476,
+      "reps": 17
+    },
+    {
+      "exerciseId": "ex_ez_bar_curl",
+      "date": "2026-11-20",
+      "weightKg": 22.6796,
+      "reps": 12
+    },
+    {
+      "exerciseId": "ex_hammer_curl",
+      "date": "2026-11-20",
+      "weightKg": 12.0,
+      "reps": 10
+    },
+    {
+      "exerciseId": "ex_barbell_bench_press",
+      "date": "2026-11-23",
+      "weightKg": 58.967,
+      "reps": 6
+    },
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "date": "2026-11-23",
+      "weightKg": 4.5359,
+      "reps": 20
+    }
+  ],
+  "bodyWeight": [
+    {
+      "date": "2026-09-21",
+      "weightKg": 74.9
+    },
+    {
+      "date": "2026-09-22",
+      "weightKg": 74.1
+    },
+    {
+      "date": "2026-10-13",
+      "weightKg": 73.5
+    },
+    {
+      "date": "2026-10-14",
+      "weightKg": 73.1
+    },
+    {
+      "date": "2026-10-15",
+      "weightKg": 73.3
+    },
+    {
+      "date": "2026-10-16",
+      "weightKg": 73.3
+    },
+    {
+      "date": "2026-10-19",
+      "weightKg": 72.9
+    },
+    {
+      "date": "2026-10-20",
+      "weightKg": 72.8
+    },
+    {
+      "date": "2026-10-21",
+      "weightKg": 73.0
+    },
+    {
+      "date": "2026-10-23",
+      "weightKg": 72.8
+    },
+    {
+      "date": "2026-10-26",
+      "weightKg": 72.5
+    },
+    {
+      "date": "2026-10-29",
+      "weightKg": 72.1
+    },
+    {
+      "date": "2026-11-02",
+      "weightKg": 72.2
+    },
+    {
+      "date": "2026-11-03",
+      "weightKg": 72.0
+    },
+    {
+      "date": "2026-11-04",
+      "weightKg": 72.4
+    },
+    {
+      "date": "2026-11-09",
+      "weightKg": 72.0
+    },
+    {
+      "date": "2026-11-12",
+      "weightKg": 71.6
+    },
+    {
+      "date": "2026-11-14",
+      "weightKg": 71.6
+    },
+    {
+      "date": "2026-11-17",
+      "weightKg": 72.2
+    },
+    {
+      "date": "2026-11-19",
+      "weightKg": 71.6
+    },
+    {
+      "date": "2026-11-23",
+      "weightKg": 72.3
+    }
+  ]
+}
